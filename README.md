@@ -246,4 +246,3 @@ Have an idea for a new feature? Open an issue with:
 **Built with ❤️ for the dropshipping community**
 
 _Aeris - Streamline Your Dropshipping Business_
-# aeris

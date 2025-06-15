@@ -1,0 +1,56 @@
+# Environment and Configuration
+.env
+.env.local
+.env.production
+config/database.php
+
+# Web Server Configuration
+.htaccess
+
+# Log Files
+*.log
+logs/
+error_log
+
+# Temporary Files
+uploads/
+tmp/
+cache/
+*.tmp
+*.bak
+*.swp
+*~
+
+# Dependencies
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-*
+.project
+.buildpath
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# PHP Specific
+*.php~
+*.phps
+.phpunit.result.cache
+phpunit.xml
+
+# Database
+*.sqlite
+*.db
+database.sqlite
